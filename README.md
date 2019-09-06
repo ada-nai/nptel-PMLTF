@@ -1,2 +1,3 @@
 # nptel-PMLTF
-July-Sept '19 NPTEL|Swayam   https://onlinecourses.nptel.ac.in/noc19_cs81/course
+Notes/codes/materials to noc19_cs81 course Practical Machine Learning with TensorFlow
+By Prof.Balaraman Ravindran and Dr. Ashish Tendulkar  | IIT-M x Google
